@@ -1,5 +1,6 @@
 db_config.yml
 datasets
+reports
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
